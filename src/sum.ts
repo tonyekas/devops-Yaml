@@ -12,3 +12,5 @@ function summation(a: number, b: number): number {
 }
 
 summation(10, 20);
+
+export { summation };
