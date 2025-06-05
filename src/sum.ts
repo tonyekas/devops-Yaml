@@ -10,4 +10,5 @@ export default sum;
 function summation(a: number, b: number): number {
   return a + b;
 }
-exit
+
+summation(10, 20);
