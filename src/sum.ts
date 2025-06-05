@@ -14,3 +14,8 @@ function summation(a: number, b: number): number {
 summation(10, 20);
 
 export { summation };
+
+function add(a: number, b: number): number {
+  return a + b;
+}
+console.log('Add 10 and 20:', add(10, 20));
